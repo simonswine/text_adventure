@@ -1,0 +1,10 @@
+
+question: Your are in the loo. Are you going to stay here long or...?
+answers:
+  a:
+    text:  Have a quick go
+    key:  first_floor
+  b:
+    text: Try to climb up the wall and scape through the rear window
+    key:  death
+

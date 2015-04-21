@@ -1,0 +1,8 @@
+question: You are in the first floor of this world. Are you just staying idle?
+answers:
+  a:
+    text: There is an interesting door to your right. It says "toilet" in the door.
+    key:  toilet
+  b:
+    text: And you can also hear some noisy talk. it looks like a meetup.
+    key:  meetup

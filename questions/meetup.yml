@@ -1,0 +1,11 @@
+
+question: You are sorrounded by a crowd of geeks that look friendly. What will you do?
+answers:
+  a:
+    text:  Let's join the fun!!! I've got my computer here :D
+    key:  win
+  b:
+    text: WAT? geeks? let's get out of here.
+    key:  death
+
+

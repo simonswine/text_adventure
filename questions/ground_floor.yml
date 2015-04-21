@@ -1,0 +1,9 @@
+
+question: You are on the ground floor. Where do you want to go?gg
+answers:
+  a:
+    text: Go Upstairs
+    key:  first_floor
+  b:
+    text: Go to the bar
+    key:  bar

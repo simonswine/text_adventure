@@ -1,0 +1,12 @@
+
+question: You got your order. Would you like to pay?
+answers:
+  a:
+    text:  No
+    key:  death
+  b:
+    text: Yes, with cash
+    key:  ground_floor
+
+
+

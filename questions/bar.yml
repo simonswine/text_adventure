@@ -1,0 +1,9 @@
+
+question: Your are the bar. You can choose among a wonderful range of delicacies. Do you prefer drinking or eating?
+answers:
+  a:
+    text: Order some yummi food
+    key:  pay
+  b:
+    text: Sing to the bar staff and amaze them witht your talent
+    key:  death
